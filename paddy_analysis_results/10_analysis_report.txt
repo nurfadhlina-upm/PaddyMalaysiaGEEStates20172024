@@ -1,0 +1,28 @@
+PADDY DATA ANALYSIS
+
+Records analysed: 104
+States: 13
+Period: 2017–2024
+Production source column: production_kg
+Production values interpreted as: t
+Planted area assumed to be hectares.
+
+LATEST YEAR: 2024
+Production: 2,059,101.00 tonnes
+Planted area: 579,706.00 ha
+Weighted yield: 3.552 t/ha
+
+Highest weighted yield over the analysed period: Pulau Pinang
+Yield: 5.199 t/ha
+
+INTERPRETATION
+Yield = production / planted area, not harvested area.
+Weighted yield = total production / total planted area.
+Area summed across years is hectare-years, not unique land area.
+Annual totals cover only the states present in the CSV.
+Correlations describe associations; they do not prove causation.
+Within-state correlations remove state averages, not year effects.
+Blank correlations mean insufficient data or no variation.
+Missing environmental observations are excluded pairwise.
+Repeated state observations are not independent samples.
+UNIT WARNING: production_kg is interpreted as tonnes based on the original file and unchanged values. Confirm the actual unit against source metadata.
