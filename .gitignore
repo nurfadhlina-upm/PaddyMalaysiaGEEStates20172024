@@ -1,0 +1,24 @@
+# PyCharm
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Research data
+*.csv
+*.xlsx
+*.xls
+
+# Generated analysis folders
+output/
+paddy_analysis_results/
+paddy_maps/
+Paddy_EDA_Output/
+
+# Python source files are local only for this public dashboard repository
+*.py
+
+# Keep the public dashboard
+!index.html
